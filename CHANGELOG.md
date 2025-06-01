@@ -1,1 +1,1 @@
-Attempt to fix translation issue
+Fix translation issue

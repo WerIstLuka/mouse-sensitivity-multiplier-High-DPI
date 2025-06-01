@@ -29,6 +29,7 @@ This mod allows you to fine-tune your mouse sensitivity beyond Minecraft's built
 
 - Minecraft versions: 1.21.x
 - Fabric
+- Fabric API
 
 ## License
 
