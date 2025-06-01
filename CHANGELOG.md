@@ -1,1 +1,1 @@
-Initial mod publish
+Update license
