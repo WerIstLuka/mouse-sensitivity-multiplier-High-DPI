@@ -1,1 +1,1 @@
-Update mod metadata
+Attempt to fix translation issue
