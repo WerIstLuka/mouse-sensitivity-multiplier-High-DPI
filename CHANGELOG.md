@@ -1,1 +1,1 @@
-Update license
+Update mod metadata
