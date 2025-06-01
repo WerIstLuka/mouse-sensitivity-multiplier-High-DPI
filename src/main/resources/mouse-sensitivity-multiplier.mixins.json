@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "net.tropicbliss.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"GameOptionsMixin",
+		"MouseMixin",
+		"MouseOptionsScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
