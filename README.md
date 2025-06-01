@@ -21,6 +21,7 @@ This mod allows you to fine-tune your mouse sensitivity beyond Minecraft's built
 ## Installation
 
 1. Install Fabric (depending on mod version)
+2. Install Fabric API
 2. Download the mod jar file
 3. Place it in your `mods` folder
 4. Launch Minecraft
