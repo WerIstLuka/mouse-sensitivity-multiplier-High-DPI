@@ -1,15 +1,16 @@
 {
 	"schemaVersion": 1,
-	"id": "mouse-sensitivity-multiplier",
+	"id": "mouse-sensitivity-multiplier-high-dpi",
 	"version": "${version}",
-	"name": "Mouse Sensitivity Multiplier",
-	"description": "A lightweight Minecraft mod that applies a customizable multiplier to your existing mouse sensitivity settings.",
+	"name": "Mouse Sensitivity Multiplier high dpi",
+	"description": "A lightweight Minecraft mod that applies a customizable multiplier to your existing mouse sensitivity settings. Modified for 8k dpi",
 	"authors": [
-		"tropicbliss"
+		"tropicbliss",
+		"WerIstLuka"
 	],
 	"contact": {
-		"homepage": "https://modrinth.com/mod/mouse-sensitivity-multiplier",
-		"sources": "https://github.com/tropicbliss/mouse-sensitivity-multiplier"
+		"homepage": "https://github.com/WerIstLuka/mouse-sensitivity-multiplier-High-DPI",
+		"sources": "https://github.com/WerIstLuka/mouse-sensitivity-multiplier-High-DPI"
 	},
 	"license": "MIT",
 	"icon": "assets/mouse-sensitivity-multiplier/icon.png",
